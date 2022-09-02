@@ -1,0 +1,14 @@
+﻿Build started 11/18/2021 11:30:08 PM.
+     1>Project "C:\Users\PC-D-022\Documents\Visual Studio 2010\Projects\my frist program\my frist program\contact system\contact system\contact system.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\contact system.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "contact system.cpp"
+         contact system.cpp
+     1>contact system.cpp(33): error C2143: syntax error : missing ';' before '/'
+     1>contact system.cpp(243): warning C4129: '[' : unrecognized character escape sequence
+     1>Done Building Project "C:\Users\PC-D-022\Documents\Visual Studio 2010\Projects\my frist program\my frist program\contact system\contact system\contact system.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.01
